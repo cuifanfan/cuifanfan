@@ -65,7 +65,6 @@
   - 技术栈：Vue.js、Electron、Three.js
 
 
-<p></p>
 
 <img align="right" width="200" src="" />
 
@@ -81,6 +80,7 @@
   - 工作内容：官网搭建
   - 技术栈：Next.js
 
+<p></p>
 </td></tr>
 
 <tr><td>
