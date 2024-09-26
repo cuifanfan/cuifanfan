@@ -90,6 +90,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/cuifanfan/cuifanfan/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+- [浏览器中的安全问题](https://juejin.cn/post/7121562491733147678)
+- [十大排序算法](https://juejin.cn/post/7113474668555665421)
+- [手写A+级Promise](https://juejin.cn/post/7127114178321612808)
 <!-- END_SECTION:blog -->
 
 </td></tr>
