@@ -59,7 +59,7 @@
 
 <img align="right" width="200" src="https://www.isv-tech.com/themes/simpleboot3/public/assets/images/logo1.png" />
 
-- [易思维（杭州）科技股份有限公司](https://www.isv-tech.com/) &emsp; 📌 2023-07-10 —— 2024-09-24
+- [易思维（杭州）科技股份有限公司](https://www.isv-tech.com/) &emsp; 📌 2023-07-10 —— 2025-03-07
   - 工作岗位：前端开发工程师
   - 工作内容：数据平台开发、参与部门 Web 组基础建设
   - 技术栈：Vue.js、Electron、Three.js
