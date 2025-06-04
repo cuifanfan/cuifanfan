@@ -57,13 +57,15 @@
 
 ### 🏢 Work Experience
 
-
-<img align="right" width="200" src="https://zuoyebang.com/favicon.ico" />
+<div>
+  <img align="right" width="200" src="https://zuoyebang.com/favicon.ico" />
 
 - [作业帮](https://zuoyebang.com/) &emsp; 📌 2025-03-24 —— 至今
   - 工作岗位：高级前端开发工程师
   - 工作内容：内容安全、招聘自动化方向
   - 技术栈：Vue、React
+
+</div>
 
 
 <img align="right" width="200" src="https://www.isv-tech.com/themes/simpleboot3/public/assets/images/logo1.png" />
