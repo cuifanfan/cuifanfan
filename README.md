@@ -57,6 +57,15 @@
 
 ### 🏢 Work Experience
 
+
+<img align="right" width="200" src="https://zuoyebang.com/favicon.ico" />
+
+- [作业帮](https://zuoyebang.com/) &emsp; 📌 2025-03-24 —— 至今
+  - 工作岗位：高级前端开发工程师
+  - 工作内容：内容安全、招聘自动化方向
+  - 技术栈：Vue、React
+
+
 <img align="right" width="200" src="https://www.isv-tech.com/themes/simpleboot3/public/assets/images/logo1.png" />
 
 - [易思维（杭州）科技股份有限公司](https://www.isv-tech.com/) &emsp; 📌 2023-07-10 —— 2025-03-07
